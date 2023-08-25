@@ -1,0 +1,2 @@
+rootProject.name = 'DeskClock'
+include ':app'
